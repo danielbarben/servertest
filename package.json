@@ -1,0 +1,20 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "^4.16.4",
+    "no": "0.0.1",
+    "pg": "^7.7.1",
+    "sequelize": "^4.41.2",
+    "sqlite3": "^4.0.4"
+  },
+  "description": ""
+}
